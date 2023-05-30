@@ -4,11 +4,11 @@ Welcome to the documentation for the **Stress and Anxiety Blogs** project. This 
 
 ## Live Website
 
-You can access the live website for the Stress and Anxiety Blogs project by clicking [here](https://stress-n-anxiety-blogs.netlify.app).
+You can access the live website for the Stress and Anxiety Blogs project by clicking [here]([https://stress-n-anxiety-blogs.netlify.app](https://github.com/GogaLaurentiu/STRESS-AND-ANXIETY-BLOG/tree/main/Con%20Web%20Design%20AE2-Laurentiugoga-10108461).
 
 ## GitHub Repository
 
-The source code for the Stress and Anxiety Blogs project is available on GitHub. You can find the repository [here](https://github.com/MarufAlAslam/react-social-n-blogs).
+The source code for the Stress and Anxiety Blogs project is available on GitHub. You can find the repository at https://github.com/GogaLaurentiu/STRESS-AND-ANXIETY-BLOG/tree/main/Con%20Web%20Design%20AE2-Laurentiugoga-10108461
 
 ## Methodology
 
