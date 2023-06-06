@@ -1,3 +1,15 @@
+##Assessment 2
+##Implementation and Report 
+##Contemporary Web Applications
+##QHO640
+##Stress and Anxiety Blog Application
+
+
+
+##Module Leader: Dr. Marwan Radwan
+##Student: Laurentiu Goga: 10108461
+
+
 ## Introduction
 
 Stress and anxiety have become common problems for students. Balancing academic obligations, societal responsibilities, and personal well-being may be difficult. However, the advancement of technology has resulted in novel solutions to these problems, one of which is a blog app. A blog app may be a great platform for students to properly manage their stress and anxiety, providing them with a variety of advantages that add to their overall well-being. This introduction looks at how a blog app might help students navigate the challenges of everyday life by encouraging self-expression, self-reflection, and interaction with others. Students can find consolation, support, and coping skills for stress and anxiety by utilising the possibilities of a blog app, therefore improving their quality of life and academic accomplishment.
