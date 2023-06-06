@@ -5,7 +5,6 @@
 ##Stress and Anxiety Blog Application
 
 
-
 ##Module Leader: Dr. Marwan Radwan
 ##Student: Laurentiu Goga: 10108461
 
